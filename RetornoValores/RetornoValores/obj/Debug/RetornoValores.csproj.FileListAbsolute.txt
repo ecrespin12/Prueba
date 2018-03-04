@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2015\Projects\RetornoValores\RetornoValores\bin\Debug\RetornoValores.exe.config
+c:\users\alex\documents\visual studio 2015\Projects\RetornoValores\RetornoValores\obj\Debug\RetornoValores.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2015\Projects\RetornoValores\RetornoValores\bin\Debug\RetornoValores.exe
+c:\users\alex\documents\visual studio 2015\Projects\RetornoValores\RetornoValores\bin\Debug\RetornoValores.pdb
+c:\users\alex\documents\visual studio 2015\Projects\RetornoValores\RetornoValores\obj\Debug\RetornoValores.exe
+c:\users\alex\documents\visual studio 2015\Projects\RetornoValores\RetornoValores\obj\Debug\RetornoValores.pdb
